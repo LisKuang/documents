@@ -1,0 +1,74 @@
+公司名称: 印孚瑟斯技术（上海）有限公司  税号: 91310000569580636B 
+
+中国建设银行股份有限公司上海紫竹支行：105290074103
+
+创建目录 mkdir
+批量修改文件名,windows
+ren mapping.126.input.mpn mapping.59.input.mpn
+ren mapping.126.*.lkp mapping.59.*.lkp
+ren mapping.202.* mapping.480.*
+ 
+JIRA & Confluence URL’s got changed. Please change your book marks otherwise you think JIRA is down.
+New JIRA URL:  https://jira.atpco.net/
+New CONFLUENCE URL: https://confluence.atpco.net/
+
+
+https://www.developer.aero/signup Vivian Infosys123&
+
+Kuang-Vivian- vkuang@atpco.net vm password
+
+https://ndcexchange.mconnect.aero:7661  
+Username: elastic
+Password: P@p3rc1ip#
+
+Vivian,
+Here is the credentials details to log in ServiceHub (https://servicedesk.sita.aero/caisd/pdmweb.exe) :
+Userid # KVIVIAN
+Password # kviIAD025
+
+new time sheet of atpco
+https://e14.ultipro.com/default.aspx  
+C078C078 Kk@123456 Ck@123456 Bs@123456 Tt@12345678
+
+remote
+10.16.30.194 ATPIAD1\ATPSVXK Maximus 193909
+
+公司OA
+http://sparshv2/Pages/Home.aspx
+
+	AWS Practitioner Concepts
+	Angular 8.0
+	Spring Boot 2.3
+	Spring State Machine
+	AWS Elastic Search
+	AWS RDS ( MySQL)
+	AWS Active MQ
+	AWS EC2
+	AWS S3 basic concept
+	Pebble Template 
+	Java 11.0
+
+
+\\prcsgisdbprt01\Scanshare
+
+安装 VPN client
+
+VPN
+手机令牌 10.221.61.197：80 用公司网络需要设置代理
+导入注册表（registry editor）
+登录VPN Ifss0004 ifss004@+令牌
+
+启动前端ui npm install & npm run dev
+
+安装数据库连接工具dbeaver
+
+安装 postman
+
+数据库测试地址 ：172.25.221.188:1921/config_center
+
+打包Vue
+
+
+
+
+
